@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 15px;
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 40px;
+}
+
+p {
+    margin-bottom: 10px;
+    
+}
